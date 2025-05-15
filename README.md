@@ -59,6 +59,5 @@ final_project/
 │   └── styles.css
 
 └── templates/ 
-
-    └── index.html
+    └── styles.css
     
