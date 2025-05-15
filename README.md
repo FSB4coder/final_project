@@ -49,9 +49,16 @@ JavaScript: Минимально используется для обработ�
 
 final_project/
 │
+
 ├── app.py
+
 ├── requirements.txt
+
 ├── static/
+
 │   └── styles.css
-└── templates/
+
+└── templates/ 
+
     └── index.html
+    
